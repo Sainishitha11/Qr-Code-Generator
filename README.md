@@ -46,9 +46,13 @@ A responsive web application for generating customizable QR codes in various for
 ![about us](image-3.png)
 
 ## 🚀 Quick Start
-
-1. Clone the repository:
+1. Download Node.js and npm.
+2. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ns-qr-generator.git
    cd ns-qr-generator
    ```
+3. Initialize the node application
+   ```bash
+   npm init -y
+
